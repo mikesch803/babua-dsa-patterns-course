@@ -42,10 +42,10 @@ This sheet is designed to help onboard new learners into the course.
 | 20  | 144. Binary Tree Preorder Traversal                    | [🎥 Watch Video](https://www.youtube.com/watch?v=-K8hwyHidSg&list=PLVItHqpXY_DCEWbz_zfevT6xhonHsJhE_&index=2)  | ✅      |
 | 21  | 94. Binary Tree Inorder Traversal                      | [🎥 Watch Video](https://www.youtube.com/watch?v=zatMy62PlK0&list=PLVItHqpXY_DCEWbz_zfevT6xhonHsJhE_&index=3)  | ✅      |
 | 22  | 102. Binary Tree Level Order Traversal                 | [🎥 Watch Video](https://www.youtube.com/watch?v=nK1uE8eJnTs&list=PLVItHqpXY_DCEWbz_zfevT6xhonHsJhE_&index=4)  | ✅      |
-| 23  | Top Down Recursion                                     | [🎥 Watch Video](https://www.youtube.com/watch?v=POqFMgBLBJY&list=PLVItHqpXY_DCEWbz_zfevT6xhonHsJhE_&index=5)  | ☐      |
-| 24  | Bottom Up Approach                                     | [🎥 Watch Video](https://www.youtube.com/watch?v=QW0rO5CH33s&list=PLVItHqpXY_DCEWbz_zfevT6xhonHsJhE_&index=6)  | ☐      |
-| 25  | 144. Binary Tree Preorder Traversal (Recursive)        | [🎥 Watch Video](https://www.youtube.com/watch?v=h8cwmSQoRms&list=PLVItHqpXY_DCEWbz_zfevT6xhonHsJhE_&index=7)  | ☐      |
-| 26  | 94. Binary Tree Inorder Traversal (Recursive)          | [🎥 Watch Video](https://www.youtube.com/watch?v=w-UKr-3wEx4&list=PLVItHqpXY_DCEWbz_zfevT6xhonHsJhE_&index=8)  | ☐      |
+| 23  | Top Down Recursion                                     | [🎥 Watch Video](https://www.youtube.com/watch?v=POqFMgBLBJY&list=PLVItHqpXY_DCEWbz_zfevT6xhonHsJhE_&index=5)  | ✅      |
+| 24  | Bottom Up Approach                                     | [🎥 Watch Video](https://www.youtube.com/watch?v=QW0rO5CH33s&list=PLVItHqpXY_DCEWbz_zfevT6xhonHsJhE_&index=6)  | ✅      |
+| 25  | 144. Binary Tree Preorder Traversal (Recursive)        | [🎥 Watch Video](https://www.youtube.com/watch?v=h8cwmSQoRms&list=PLVItHqpXY_DCEWbz_zfevT6xhonHsJhE_&index=7)  | ✅      |
+| 26  | 94. Binary Tree Inorder Traversal (Recursive)          | [🎥 Watch Video](https://www.youtube.com/watch?v=w-UKr-3wEx4&list=PLVItHqpXY_DCEWbz_zfevT6xhonHsJhE_&index=8)  | ✅     |
 | 27  | 145. Binary Tree Postorder Traversal (Recursive)       | [🎥 Watch Video](https://www.youtube.com/watch?v=HU2xPg5lbs8&list=PLVItHqpXY_DCEWbz_zfevT6xhonHsJhE_&index=9)  | ☐      |
 | 28  | Binary Search-1-Theory                                 | [🎥 Watch Video](https://www.youtube.com/watch?v=bDwl6BMTQqc&list=PLVItHqpXY_DA6PffX2yw1l2wsDnGLbsLU)          | ☐      |
 | 29  | 704. Binary Search                                     | [🎥 Watch Video](https://www.youtube.com/watch?v=vo92sw_qN_Q&list=PLVItHqpXY_DA6PffX2yw1l2wsDnGLbsLU&index=2)  | ☐      |
